@@ -2,6 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Rom1deTroyes&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rom1deTroyes&theme=solarized-dark&fire=DD2727&background=00000000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rom1deTroyes&layout=compact)
 <!--
 **Rom1deTroyes/Rom1deTroyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
